@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Jesse Tong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesse-tong)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-tong&hide=html,css,scss,cython&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 - Languages:
