@@ -27,6 +27,7 @@
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
@@ -37,8 +38,7 @@
   - Designing and learning about making better UI/UX.
   - Practices (about security, accessibility, coding practices) on web development.
   - Learning about machine learning, about implementation, LLMs, computer vision and use of APIs.
-  - Comprehending new technologies on computer vision and large language models.
-- 💬 Ask me about: Idk, but I'll try to answer as much as I can.
-- 📫 How to reach me: I only occasionally use social medias tho...
+  - Comprehending new technologies in machine learning, AI and large language models.
 - 😄 Pronouns: In the pronoun tag
 
+- Replit: <a href="https://replit.com/@tongnguyenminhk">Tong Nguyen Minh Khang</a>
